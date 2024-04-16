@@ -1,0 +1,118 @@
+C:\Users\USER\source\repos\budgetapp\bin\budgetapp.dll.config
+C:\Users\USER\source\repos\budgetapp\bin\budgetapp.dll
+C:\Users\USER\source\repos\budgetapp\bin\budgetapp.pdb
+C:\Users\USER\source\repos\budgetapp\bin\roslyn\csc.exe
+C:\Users\USER\source\repos\budgetapp\bin\roslyn\csc.exe.config
+C:\Users\USER\source\repos\budgetapp\bin\roslyn\csc.rsp
+C:\Users\USER\source\repos\budgetapp\bin\roslyn\csi.exe
+C:\Users\USER\source\repos\budgetapp\bin\roslyn\csi.exe.config
+C:\Users\USER\source\repos\budgetapp\bin\roslyn\csi.rsp
+C:\Users\USER\source\repos\budgetapp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\source\repos\budgetapp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\source\repos\budgetapp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USER\source\repos\budgetapp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\source\repos\budgetapp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USER\source\repos\budgetapp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\source\repos\budgetapp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\source\repos\budgetapp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USER\source\repos\budgetapp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USER\source\repos\budgetapp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\USER\source\repos\budgetapp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\source\repos\budgetapp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\USER\source\repos\budgetapp\bin\roslyn\System.AppContext.dll
+C:\Users\USER\source\repos\budgetapp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\source\repos\budgetapp\bin\roslyn\System.Console.dll
+C:\Users\USER\source\repos\budgetapp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\source\repos\budgetapp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\USER\source\repos\budgetapp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USER\source\repos\budgetapp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\USER\source\repos\budgetapp\bin\roslyn\System.IO.Compression.dll
+C:\Users\USER\source\repos\budgetapp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\USER\source\repos\budgetapp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USER\source\repos\budgetapp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\source\repos\budgetapp\bin\roslyn\System.Net.Http.dll
+C:\Users\USER\source\repos\budgetapp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\USER\source\repos\budgetapp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\source\repos\budgetapp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\USER\source\repos\budgetapp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\USER\source\repos\budgetapp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\USER\source\repos\budgetapp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\USER\source\repos\budgetapp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\USER\source\repos\budgetapp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\USER\source\repos\budgetapp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\source\repos\budgetapp\bin\roslyn\System.ValueTuple.dll
+C:\Users\USER\source\repos\budgetapp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\USER\source\repos\budgetapp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\USER\source\repos\budgetapp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\USER\source\repos\budgetapp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\USER\source\repos\budgetapp\bin\roslyn\vbc.exe
+C:\Users\USER\source\repos\budgetapp\bin\roslyn\vbc.exe.config
+C:\Users\USER\source\repos\budgetapp\bin\roslyn\vbc.rsp
+C:\Users\USER\source\repos\budgetapp\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\source\repos\budgetapp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\source\repos\budgetapp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\source\repos\budgetapp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\source\repos\budgetapp\obj\Debug\budgetapp.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\budgetapp\obj\Debug\budgetapp.csproj.CopyComplete
+C:\Users\USER\source\repos\budgetapp\obj\Debug\budgetapp.dll
+C:\Users\USER\source\repos\budgetapp\obj\Debug\budgetapp.pdb
+C:\Users\USER\source\repos\budgetapp\obj\Debug\budgetapp.csproj.AssemblyReference.cache
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\budgetapp.dll.config
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\budgetapp.dll
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\budgetapp.pdb
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\roslyn\csc.exe
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\roslyn\csc.exe.config
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\roslyn\csc.rsp
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\roslyn\csi.exe
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\roslyn\csi.exe.config
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\roslyn\csi.rsp
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\roslyn\System.AppContext.dll
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\roslyn\System.Console.dll
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\roslyn\System.IO.Compression.dll
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\roslyn\System.Net.Http.dll
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\roslyn\System.ValueTuple.dll
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\roslyn\vbc.exe
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\roslyn\vbc.exe.config
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\roslyn\vbc.rsp
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\roslyn\VBCSCompiler.exe
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sagar\Desktop\budget project\budgetapp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sagar\Desktop\budget project\budgetapp\obj\Debug\budgetapp.csproj.AssemblyReference.cache
+C:\Users\sagar\Desktop\budget project\budgetapp\obj\Debug\budgetapp.csproj.CoreCompileInputs.cache
+C:\Users\sagar\Desktop\budget project\budgetapp\obj\Debug\budgetapp.csproj.CopyComplete
+C:\Users\sagar\Desktop\budget project\budgetapp\obj\Debug\budgetapp.dll
+C:\Users\sagar\Desktop\budget project\budgetapp\obj\Debug\budgetapp.pdb
